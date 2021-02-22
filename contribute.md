@@ -6,7 +6,7 @@ subtitle: Steps for adding a dataset
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" width="640" height="390" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-
+<!---
 We have tried to simplify the process for submitting a dataset. If you are new to Git this may be a bit overwhelming, but the steps below should walk you through it.
 
 # Login to your GitHub account
@@ -32,3 +32,4 @@ We will review all submissions and include appropriate datasets.
 
 # Advanced use
 If you are more comfortable with Git, feel free to branch, create multiple posts in individual files, and submit a PR.
+--->
