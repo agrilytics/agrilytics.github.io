@@ -4,7 +4,15 @@ title: Contribute
 subtitle: Steps for adding a dataset
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" width="640" height="390" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" width="640" height="390" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+<style>
+    #myFrame { width:100%; height:100%; }
+</style>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" id="myFrame">
+<p>Loading...</p>
+</iframe>
 
 <!---
 We have tried to simplify the process for submitting a dataset. If you are new to Git this may be a bit overwhelming, but the steps below should walk you through it.
