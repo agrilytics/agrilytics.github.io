@@ -7,10 +7,10 @@ subtitle: Steps for adding a dataset
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" width="640" height="390" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
 
 <style>
-    #myFrame { width:100%; height:100%; }
+    myFrame { width:100%; height:100%; }
 </style>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" id="myFrame">
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBTdpQwvNaBiEhXnL45iwwkghAq7WWO-v7q66selJCFo1dA/viewform?embedded=true" id="myFrame" frameborder="0" marginheight="0" marginwidth="0">
 <p>Loading...</p>
 </iframe>
 
