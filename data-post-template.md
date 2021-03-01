@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Template dataset submission
+title: Template for adding a new dataset
 subtitle: Template dataset subtitle
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -14,7 +14,7 @@ I strongly encourage you to [take 5 minutes to learn how to write in markdown](h
 
 Edit the metadata above here. Be sure to change the title at tags at the very least. You can then delete this section.
 
-Edit the post link by changing the name. Be sure to include the date at the front of the link in YYYY-MM-DD format. For example, `2021-02-07-template-dataset-submission.md`
+Edit the post link by changing the name. Be sure to include the date at the front of the link in YYYY-MM-DD format. For example, `2021-02-07-data-post-template.md`
 
 If you are adding any images you need to add them to the appropriate folder as indicated in the cover-img, thumbnail-img, and share-img directories above
 
