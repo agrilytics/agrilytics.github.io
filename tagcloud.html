@@ -1,0 +1,21 @@
+---
+layout: page
+title: Dataset Tag Cloud
+subtitle: The 25 most common tags on the datasets
+---
+
+
+<tagcloud>
+  {% capture tags %}
+    {% for tag in site.tags %}
+      {{ tag[0] }}
+    {% endfor %}
+  {% endcapture %}
+
+  {% assign sortedTags = tags | split:" " | sort %}
+  <ul class="cloud">
+  {% for st in sortedTags %}
+    <li class="tag{{ site.tags[st].size }}">{{ st | tag_link }}</li>
+  {% endfor %}
+  </ul>
+</tagcloud>
