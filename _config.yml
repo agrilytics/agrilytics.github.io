@@ -15,6 +15,7 @@ author: Operations Management Community
 
 navbar-links:
  Submit a Dataset: "contribute"
+ Other Aggregations: "othersources"
  Resources:
    - Beautiful Jekyll: "https://beautifuljekyll.com"
    - Learn markdown: "https://www.markdowntutorial.com/"
