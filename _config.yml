@@ -18,7 +18,7 @@ navbar-links:
    - Tag Cloud: "tagcloud"
    - All Tags: "tags"
  Submit a Dataset: "contribute"
- Other Aggregations: "_posts/2021-03-02-other-aggregations.md"
+ Other Aggregations: "2021-03-02-other-aggregations.md"
  Resources:
    - Beautiful Jekyll: "https://beautifuljekyll.com"
    - Learn markdown: "https://www.markdowntutorial.com/"
