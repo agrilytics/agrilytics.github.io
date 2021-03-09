@@ -8,7 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [other-aggregations]
 ---
 
-# 
 There are a number of other aggregation efforts. Some datasets in these aggregators may be available here, but some may not have made their way into our records. Primary efforts of which we are aware are:
 
 - [Kaggle](https://www.kaggle.com/datasets)
