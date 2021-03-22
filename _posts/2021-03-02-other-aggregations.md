@@ -12,4 +12,14 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Governmental Open Data Portals](https://dataportals.org/search)
+- [Food and Agriculture Organization of the United Nations](http://www.fao.org/statistics/en/)
+- [World Bank Data Catalog](https://datacatalog.worldbank.org/)
+- [Cornell University Library](https://guides.library.cornell.edu/ag-food-data-guide/ag-food-data-sources)
 
+https://knoema.com/atlas/topics/Agriculture
+
+
+
+
+
+Notice an issue here? [Let us know.](https://docs.google.com/forms/d/e/1FAIpQLSfFLEtWSlfe6gwBaoe-9OfE4BjtwaVx3IQg9ZsfCIJDrujrbA/viewform?usp=pp_url&entry.677199195=2021-03-02-other-aggregations)
