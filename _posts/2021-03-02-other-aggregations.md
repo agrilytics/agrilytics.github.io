@@ -13,6 +13,7 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 - [Cornell University Library](https://guides.library.cornell.edu/ag-food-data-guide/ag-food-data-sources)
 - [data.world](https://data.world/datasets/agriculture)
 - [Food and Agriculture Organization of the United Nations](http://www.fao.org/statistics/en/)
+- [Food Security Portal](https://api.foodsecurityportal.org/dataset/)
 - [GitHub Agriculture Repositories](https://github.com/search?q=agriculture+data&type=repositories)
 - [Governmental Open Data Portals](https://dataportals.org/search)
 - [Kaggle](https://www.kaggle.com/datasets)
