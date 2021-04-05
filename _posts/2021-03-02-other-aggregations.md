@@ -16,13 +16,12 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 - [GitHub Agriculture Repositories](https://github.com/search?q=agriculture+data&type=repositories)
 - [Governmental Open Data Portals](https://dataportals.org/search)
 - [Kaggle](https://www.kaggle.com/datasets)
+- [Knoema](https://knoema.com/atlas/topics/Agriculture)
 - [OECD](https://data.oecd.org/agriculture.htm)
 - [St. Louis Federal Reserve](https://fred.stlouisfed.org/tags/series?t=agriculture)
 - [World Bank Data Catalog](https://datacatalog.worldbank.org/)
 - [World Bank MicroData](https://microdata.worldbank.org/index.php/home)
 - [World Resources Institute](https://datasets.wri.org/)
-
-https://knoema.com/atlas/topics/Agriculture
 
 
 
