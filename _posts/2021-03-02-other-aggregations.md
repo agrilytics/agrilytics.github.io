@@ -20,6 +20,7 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 - [Knoema](https://knoema.com/atlas/topics/Agriculture)
 - [OECD](https://data.oecd.org/agriculture.htm)
 - [St. Louis Federal Reserve](https://fred.stlouisfed.org/tags/series?t=agriculture)
+- [USDA NASS](https://www.nass.usda.gov/)
 - [World Bank Data Catalog](https://datacatalog.worldbank.org/)
 - [World Bank MicroData](https://microdata.worldbank.org/index.php/home)
 - [World Resources Institute](https://datasets.wri.org/)
