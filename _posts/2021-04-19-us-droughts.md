@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Peruvian Agricultural Productivity and Climate Change
+title: US Drought Prediction
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
