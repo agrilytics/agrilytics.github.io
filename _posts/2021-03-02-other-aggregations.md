@@ -18,6 +18,7 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 - [Governmental Open Data Portals](https://dataportals.org/search)
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Knoema](https://knoema.com/atlas/topics/Agriculture)
+- [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access/quick-links)
 - [OECD](https://data.oecd.org/agriculture.htm)
 - [St. Louis Federal Reserve](https://fred.stlouisfed.org/tags/series?t=agriculture)
 - [USDA NASS](https://www.nass.usda.gov/)
