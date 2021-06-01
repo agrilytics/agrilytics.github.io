@@ -9,7 +9,7 @@ tags: [social data, India, inequality]
 
 **Contributor:** Co-Author Three, Academic, Institution (Blinded for Review)
 
-**Dataset Location:** [**https://www.aeaweb.org/articles?id=10.1257/pol.20190316**](https://www.kaggle.com/prathamsharma123/farmers-protest-tweets-dataset-raw-json)
+**Dataset Location:** [https://www.kaggle.com/prathamsharma123/farmers-protest-tweets-dataset-raw-json](https://www.kaggle.com/prathamsharma123/farmers-protest-tweets-dataset-raw-json)
 
 **Dataset Description:**
 
