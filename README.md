@@ -28,6 +28,14 @@ Note that this was the easy way to *create* your website, but it does come at a 
 
 This website is built using **Beautiful Jekyll**, a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.
 
+## Possible data sources to include
+- https://iica.int/en/press/news/precision-agriculture-development-pad-and-iica-join-forces-drive-digitalization
+- https://www.cgdev.org/page/contact-cgd
+- https://www.refed.com/
+- https://www.aeaweb.org/articles?id=10.1257/pol.20190316
+- https://www.tandfonline.com/doi/full/10.1080/00207543.2020.1868599
+- Directorate of Economics and Statistics
+
 ## Table of contents
 
 - [Features](#features)
