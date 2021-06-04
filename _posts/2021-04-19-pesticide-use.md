@@ -4,7 +4,7 @@ title: United States Pesticide Use
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [government data, United States, pesticides, inputs]
+tags: [government data, United States, pesticides, inputs, crop protection]
 ---
 
 **Contributor:** Co-Author Three, Academic, Institution (Blinded for Review)
