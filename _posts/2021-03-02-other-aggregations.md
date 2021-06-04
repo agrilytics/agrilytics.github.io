@@ -16,6 +16,7 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 - [Food Security Portal](https://api.foodsecurityportal.org/dataset/)
 - [GitHub Agriculture Repositories](https://github.com/search?q=agriculture+data&type=repositories)
 - [Governmental Open Data Portals](https://dataportals.org/search)
+- [India's Ministry of Statistics and Programme Implementation](https://www.mospi.gov.in/download-tables-data)
 - [Kaggle](https://www.kaggle.com/datasets)
 - [Knoema](https://knoema.com/atlas/topics/Agriculture)
 - [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access/quick-links)
