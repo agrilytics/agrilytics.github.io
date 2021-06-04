@@ -4,7 +4,7 @@ title: Peruvian Agricultural Productivity and Climate Change
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [academic data, climate change, Peru, productivity, survey]
+tags: [academic data, climate change, Peru, productivity, survey, sustainability]
 ---
 
 **Contributor:** Co-Author Three, Academic, Institution (Blinded for Review)
