@@ -21,6 +21,7 @@ There are a number of other aggregation efforts. Some datasets in these aggregat
 - [Knoema](https://knoema.com/atlas/topics/Agriculture)
 - [National Centers for Environmental Information](https://www.ncdc.noaa.gov/data-access/quick-links)
 - [OECD](https://data.oecd.org/agriculture.htm)
+- [Registry of Open Data on Amazon Web Services (AWS)](https://registry.opendata.aws/tag/agriculture)
 - [St. Louis Federal Reserve](https://fred.stlouisfed.org/tags/series?t=agriculture)
 - [USDA NASS](https://www.nass.usda.gov/)
 - [World Bank Data Catalog](https://datacatalog.worldbank.org/)
