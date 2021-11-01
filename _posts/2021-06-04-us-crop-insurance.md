@@ -1,6 +1,6 @@
 ---
 layout: post
-title: United State Crop Insurance Experience
+title: United States Crop Insurance Experience
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
