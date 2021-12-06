@@ -4,7 +4,7 @@ title: Africa Postharvest Losses Information System
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Africa, postharvest loss, food water, survey, sustainability]
+tags: [Africa, postharvest loss, food loss, sustainability]
 ---
 
 **Contributor:** Co-Author Three, Academic, Institution (Blinded for Review)
