@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Africa Postharvest Losses Information System
+title: FAO Food Loss and Waste
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [Africa, postharvest loss, food water, survey, sustainability]
+tags: [international, postharvest loss, food loss, food waste]
 ---
 
 **Contributor:** Co-Author Three, Academic, Institution (Blinded for Review)
